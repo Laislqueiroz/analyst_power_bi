@@ -29,8 +29,8 @@ O relatório foi dividido em 3 páginas principais:
 
 * `fundamentos_power_bi/desafio_1_power_bi.pbix` — Arquivo principal do Power BI Desktop.
 * `fundamentos_power_bi/assets/pagina_1.png` — * Capitura de Tela Pagina 1*.
-*`fundamentos_power_bi/assets/pagina_2.png` — * Capitura de Tela Pagina  2*.
-*`fundamentos_power_bi/assets/pagina_3.png` — * Capitura de Tela Pagina 3*.
+* `fundamentos_power_bi/assets/pagina_2.png` — * Capitura de Tela Pagina  2*.
+* `fundamentos_power_bi/assets/pagina_3.png` — * Capitura de Tela Pagina 3*.
 ---
 
 
